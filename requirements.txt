@@ -1,0 +1,15 @@
+langchain
+langchain-community
+langchain-openai
+pydantic
+langgraph
+crewai
+openai
+tiktoken
+python-dotenv
+dotenv
+ipykernel
+langchain-core
+unstructured
+streamlit
+tavily-python
