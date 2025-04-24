@@ -1,4 +1,8 @@
 ## Multi-Agent AI Search Assistant
+
+##  ![image](https://github.com/user-attachments/assets/7df11bdd-6df9-4616-9699-f9b03d6184b4)
+
+
 ### Project Overview
 AI-powered Multi-Agent Search Assistant is a cutting-edge system that combines multiple AI agents to search the web, analyze data, and craft the most accurate and contextually relevant answers. This project leverages powerful frameworks like LangChain, LangGraph, and Streamlit to deliver a seamless and interactive experience. Whether you're seeking up-to-date news or complex research answers, this assistant is designed to provide you with insightful, real-time responses.
 
